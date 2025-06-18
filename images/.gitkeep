@@ -1,1 +1,6 @@
+your-project/
+├── index.html
+├── style.css
+└── images/
+    └── logo.png
 
